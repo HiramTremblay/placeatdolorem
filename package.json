@@ -1,0 +1,31 @@
+{
+  "name": "placeatdolorem",
+  "version": "1.6.0",
+  "main": "src/index.ts",
+  "typings": "src/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HiramTremblay/placeatdolorem.git"
+  },
+  "keywords": [
+    "react-native",
+    "quis",
+    "sed",
+    "action",
+    "dolorem",
+    "eligendi",
+    "dolores"
+  ],
+  "author": "WilliamRitchie",
+  "license": "ISC",
+  "homepage": "https://github.com/HiramTremblay/placeatdolorem.git",
+  "dependencies": {
+    "@ethersproject/shims": "^5.7.0",
+    "axios": "^0.27.2",
+    "ducimuset": "^1.0.0",
+    "ethers": "^5.7.2",
+    "quibusdamconsequuntur": "^1.0.1",
+    "react-native-config": "^1.4.11",
+    "react-native-get-random-values": "^1.8.0"
+  }
+}
